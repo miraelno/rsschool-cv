@@ -23,6 +23,7 @@ Self-discipline, self-study, craving for new knowledge, perseverance.
 - CSS
 - JS(Base)
 - SSAS/Bootstrap
+- Node.JS(Base)
 ---
 
 ### Education
