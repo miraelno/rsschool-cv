@@ -1,2 +1,1 @@
-# rsschool-cv
-init: start git-markdown task
+https://miraelno.github.io/rsschool-cv/cv
