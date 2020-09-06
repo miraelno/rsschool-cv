@@ -29,6 +29,7 @@ Self-discipline, self-study, craving for new knowledge, perseverance.
 
 - 4th year of Kiev National University of Trade and Economics, Faculty of Information Technologies
 - Completed the basic course HTML / CSS / JS at Cursera
+- Сontinue to read books on JS
 
   ***
 
