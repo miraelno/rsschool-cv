@@ -31,7 +31,7 @@ Committed to continuous learning and delivering impactful software.
 
 ### General QA Engineer
 
-EVO | 01.2024 - present
+_EVO | 01.2024 - present_
 
 - Working with codebase JavaScript and Python
 - Solving minor tasks on real project using JavaScript
